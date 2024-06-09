@@ -109,6 +109,10 @@ The “Predicting Student Performance using Machine Learning” project aims to 
 4. *Jupyter Notebook*: For data analysis and model training.
 5. *HTML/CSS*: For the web interface.
 
+6. # DATASET : https://www.youdata.ai/datasets/66659c64e2875abb970890f0?source_link=&source_platform=&data_interests=,Artificial
+
+   from youdata.ai
+
 ### Applications:
 - Educational purposes to demonstrate machine learning applications.
 - Insights into factors affecting student performance.
