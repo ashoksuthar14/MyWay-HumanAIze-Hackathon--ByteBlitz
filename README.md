@@ -6,7 +6,7 @@ Submission by ByteBlitze TEam for Edtech Hackathon - Humanaize
 
 *Demo Video* : https://drive.google.com/file/d/1bZLwjC4Y8JI3IXvHDnNyqFV9uyYyOqdb/view?usp=sharing
 
-[![Demo Video](logo.png)](https://www.youtube.com/watch?v=Lhype72K56o)
+[![Demo Video]](https://www.youtube.com/watch?v=Lhype72K56o)
 
 
 
