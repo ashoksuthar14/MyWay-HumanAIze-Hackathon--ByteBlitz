@@ -2,14 +2,14 @@
 Submission by ByteBlitze TEam for Edtech Hackathon - Humanaize
 
 #links : 
-BLOG : https://medium.com/@ashoksuthar48697/myway-learn-in-your-way-2ee70a88fb76
+*BLOG* : https://medium.com/@ashoksuthar48697/myway-learn-in-your-way-2ee70a88fb76
 
-Demo Video : https://drive.google.com/file/d/1bZLwjC4Y8JI3IXvHDnNyqFV9uyYyOqdb/view?usp=sharing
-
-
+*Demo Video* : https://drive.google.com/file/d/1bZLwjC4Y8JI3IXvHDnNyqFV9uyYyOqdb/view?usp=sharing
 
 
-#MY Way -Learn in your way  
+
+
+# MY Way -Learn in your way  
 AI based learning Platform
 
 
@@ -22,7 +22,7 @@ MyWay is a one-stop solution to many virtual mentoring-based models.
 MyWay is completely based on Virtual Mentor for Student Learning and GenAI.
 
 
-#OUR SUBMISSION
+# OUR SUBMISSION
 To solve the issues, we have created a website with these models.
 
 1.Roadmap generator
@@ -38,7 +38,7 @@ To solve the issues, we have created a website with these models.
 Each model tries to solve a major issue a student face in this education system.
 
 
-#CONSEQUENCE
+# CONSEQUENCE
 1.Right guidance : our model would be able to impact the confused students and save resources,money and time .
 
 2.NO Distraction : this model would be able to provide a platform without any distractions which leads to a productive output.
@@ -64,7 +64,7 @@ And some are listed below :-
 10- Formal Learning
 
 
-##1.ROADMAP GENERATOR:
+## 1.ROADMAP GENERATOR:
 A Roadmap Generator AI is a sophisticated tool designed to create strategic plans or roadmaps for projects, businesses, or personal goals. It leverages artificial intelligence to analyze input data, identify key milestones, allocate resources, and forecast timelines. The AI can be used in various domains such as project management, product development, education, career planning, and more. Its primary objective is to enhance planning efficiency, improve accuracy, and adapt dynamically to changes in project requirements or progress.
 
 
@@ -95,7 +95,7 @@ Scalable Solutions: Designed to handle projects of varying sizes and complexitie
 
 
 
-##2. student performance predictor:
+## 2. student performance predictor:
 
 The “Predicting Student Performance using Machine Learning” project aims to predict student performance in mathematics based on various factors like gender, ethnicity, parental education, lunch type, and test preparation courses. It uses a dataset from YouData.ai and trains a model using supervised learning algorithms such as decision trees or random forests. The project achieved an 85% accuracy in predictions. It includes a user-friendly interface for input and predictions. The project is developed in Python and uses Flask for the web application.
 
@@ -113,11 +113,11 @@ The “Predicting Student Performance using Machine Learning” project aims to 
 
   
 
-##3.Ai topic Discussion (crew AI)
+## 3.Ai topic Discussion (crew AI)
 
 Crew AI refers to the application of artificial intelligence to manage, assist, and optimize the activities and interactions of a crew, typically within industries such as aviation, maritime, space exploration, and even healthcare. The goal is to enhance safety, efficiency, communication, and decision-making capabilities of human teams working in complex, high-stakes environments.
 
-Tech Stack
+*Tech Stack*
 
 Frontend : Streamlit
 
@@ -139,11 +139,11 @@ Crew AI holds significant promise for enhancing the efficiency, safety, and effe
 
 
 
-##4.AI senior chatbot
+## 4.AI senior chatbot
 
 AI chatbot that acts as a college senior using the Gemini API involves leveraging advanced natural language processing (NLP) and machine learning techniques to provide valuable assistance to students. This chatbot can help with a variety of tasks such as answering academic questions, providing guidance on coursework, sharing campus resources, and offering general advice.
 
-Tech Stack
+*Tech Stack*
 
 Front end : streamlit
 
@@ -170,7 +170,7 @@ Continuous Improvement: Using this data, the chatbot can be continuously improve
 
 
 
-##5.Chat with documents:
+## 5.Chat with documents:
 
 “Chat with PDF” application using Gemini Pro and LangChain involves leveraging advanced AI models to interact with and extract information from PDF documents. This application can allow users to upload PDF files and then query the content of these documents using natural language. The system can answer questions, summarize sections, and provide insights based on the content of the PDFs.
 
