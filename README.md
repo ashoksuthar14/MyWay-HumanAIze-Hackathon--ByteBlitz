@@ -3,6 +3,7 @@ Submission by ByteBlitze TEam for Edtech Hackathon - Humanaize
 
 #links : 
 BLOG : https://medium.com/@ashoksuthar48697/myway-learn-in-your-way-2ee70a88fb76
+
 Demo Video : https://drive.google.com/file/d/1bZLwjC4Y8JI3IXvHDnNyqFV9uyYyOqdb/view?usp=sharing
 
 
