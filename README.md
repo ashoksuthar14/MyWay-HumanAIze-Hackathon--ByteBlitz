@@ -68,6 +68,8 @@ And some are listed below :-
 
 
 ## 1.ROADMAP GENERATOR:
+
+### LINK : https://h8oypywmk6kf6zjmtezxsv.streamlit.app/
 A Roadmap Generator AI is a sophisticated tool designed to create strategic plans or roadmaps for projects, businesses, or personal goals. It leverages artificial intelligence to analyze input data, identify key milestones, allocate resources, and forecast timelines. The AI can be used in various domains such as project management, product development, education, career planning, and more. Its primary objective is to enhance planning efficiency, improve accuracy, and adapt dynamically to changes in project requirements or progress.
 
 
@@ -147,6 +149,8 @@ Crew AI holds significant promise for enhancing the efficiency, safety, and effe
 
 
 ## 4.AI senior chatbot
+
+### https://mywaychat.streamlit.app/
 
 AI chatbot that acts as a college senior using the Gemini API involves leveraging advanced natural language processing (NLP) and machine learning techniques to provide valuable assistance to students. This chatbot can help with a variety of tasks such as answering academic questions, providing guidance on coursework, sharing campus resources, and offering general advice.
 
