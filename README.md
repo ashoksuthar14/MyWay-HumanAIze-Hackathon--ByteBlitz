@@ -120,6 +120,17 @@ The “Predicting Student Performance using Machine Learning” project aims to 
 - Insights into factors affecting student performance.
 - Tool for educators to predict and potentially improve student outcomes
 
+
+
+### Installation Step : - 
+Python 3.7.0 command 1 - python -m pip install –-user -r requirements.txt command 2 - python app.py
+change it to this one:-
+### Installation Step :
+- Python 3.7.0
+command 1 - python -m pip install –-user -r requirements.txt 
+command 2 - cd Student Performance Predictor(as per saved file)[This will correct the right path for app.py to run]
+command 3 - python app.py
+
   
 
 ## 3.Ai topic Discussion (crew AI)
