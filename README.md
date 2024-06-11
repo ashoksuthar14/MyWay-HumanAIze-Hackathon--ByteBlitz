@@ -6,6 +6,8 @@ Submission by ByteBlitze TEam for Edtech Hackathon - Humanaize
 
 *Demo Video* : https://drive.google.com/file/d/1bZLwjC4Y8JI3IXvHDnNyqFV9uyYyOqdb/view?usp=sharing
 
+*website* : https://ashoksuthar486977.wixsite.com/my-site-1
+
 [![Demo Video]](https://www.youtube.com/watch?v=Lhype72K56o)
 
 
@@ -124,11 +126,17 @@ The “Predicting Student Performance using Machine Learning” project aims to 
 
 ### Installation Step : - 
 Python 3.7.0 command 1 - python -m pip install –-user -r requirements.txt command 2 - python app.py
+
 change it to this one:-
+
 ### Installation Step :
+
 - Python 3.7.0
+
 command 1 - python -m pip install –-user -r requirements.txt 
+
 command 2 - cd Student Performance Predictor(as per saved file)[This will correct the right path for app.py to run]
+
 command 3 - python app.py
 
   
